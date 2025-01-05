@@ -1,7 +1,8 @@
+# Firebase configuration files
 firebase.json
 .firebaserc
 firebase.rules
 firebase.indexes.json
-node_modules/
 
-firebase/firebaseConfig.ts
+/src/firebase/firebaseConfig.ts
+node_modules
