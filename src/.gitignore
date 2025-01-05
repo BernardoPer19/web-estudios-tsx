@@ -1,7 +1,0 @@
-firebase.json
-.firebaserc
-firebase.rules
-firebase.indexes.json
-node_modules/
-
-firebase/firebaseConfig.ts
